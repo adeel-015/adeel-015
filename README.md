@@ -33,5 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=addy2354&" alt="addy2354" /></p>
 
-##Contributions
 ![snake gif](https://github.com/addy2354/addy2354/blob/output/github-contribution-grid-snake.gif)
