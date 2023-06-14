@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Web D, Java, C & MySQL**
 
-- 📫 How to reach me **adeel.javed3511@gmail.com**
+- 📫 How to reach me **https://github.com/addy2354**
 
 - ⚡ Fun fact **I play video games as well :)**
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/addy2354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="addy2354" height="30" width="40" /></a>
 <a href="https://twitter.com/adeel_015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adeel_015" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adeel-javed-34120017b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adeel-javed-34120017b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adeel-javed-34120017b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adeel-javed-34120017b/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/perfectionist_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="perfectionist_official" height="30" width="40" /></a>
 <a href="https://discord.gg/P3RF3CT#3783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="P3RF3CT#3783" height="30" width="40" /></a>
 </p>
