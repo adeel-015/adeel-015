@@ -32,5 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=addy2354&show_icons=true&locale=en" alt="addy2354" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=addy2354&" alt="addy2354" /></p>
-
-![snake gif](https://github.com/addy2354/addy2354/blob/output/github-contribution-grid-snake.svg)
