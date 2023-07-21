@@ -68,5 +68,30 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/addy2354/addy2354/output/github-contribution-grid-snake-dark.svg" />
+
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center"> ⚡ Stats ⚡ </h2>
+<br>
+<div align="center">
+  <img width=390 src="https://streak-stats.demolab.com?user=addy2354&theme=transparent" alt="streak stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=addy2354&theme=transparent&show_icons=true&rank_icon=github" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy2354&layout=donut-vertical&theme=transparent" alt="top langs" />
+</div>
+
+<br/><br/>
+<br/>
+
+<hr/>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=25&center=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!%20👋;Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+learn+new+things!+:)">
+</h3>
+
+<br/>
   
