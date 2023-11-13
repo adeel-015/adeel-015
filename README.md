@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=addy2354.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors" />
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&color=507FF7&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Adeel!+%F0%9F%91%8B;I+work+on+websites+and+web+apps!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&color=507FF7&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Adeel!+%F0%9F%91%8B;I+work+on+websites+and+web+apps!" alt="Typing SVG" /></a>
 </h1>
 
 <h2 align="center"> My Stack </h2>
@@ -15,7 +16,7 @@
 <br/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/addy2354/addy2354/output/github-contribution-grid-snake-dark.svg" />
 
@@ -24,7 +25,7 @@
 
 <hr/>
 
-<h2 align="center"> ⚡ Stats ⚡ </h2>
+<h2 align="center"> Stats </h2>
 <br>
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com?user=addy2354&theme=transparent" alt="streak stats" />
