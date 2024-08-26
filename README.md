@@ -9,7 +9,7 @@
   <img width=390 height=160 src="https://github-readme-stats.vercel.app/api?username=adeel-015&theme=transparent&show_icons=true&rank_icon=github" alt="readme stats" />
   <br/>
   <img width=290 height=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeel-015&layout=donut-vertical&theme=transparent" alt="top langs" />
-  <a href="https://leetcode.com/adeel-015">
+  <a href="https://leetcode.com/adeel-015" target="_blank">
     <img width=490 height=390 src="https://leetcard.jacoblin.cool/adeel-015?theme=dark&font=ABeeZee&ext=contest" alt="Leetcode Stats">
   </a>
 </div>
