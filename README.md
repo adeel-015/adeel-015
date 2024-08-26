@@ -4,6 +4,16 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&color=507FF7&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Adeel!+%F0%9F%91%8B;I+work+on+websites+and+web+apps!" alt="Typing SVG" /></a>
 </h1>
 
+<div align="center">
+  <img width=390 height=160 src="https://streak-stats.demolab.com?user=adeel-015&theme=transparent" alt="streak stats" />
+  <img width=390 height=160 src="https://github-readme-stats.vercel.app/api?username=adeel-015&theme=transparent&show_icons=true&rank_icon=github" alt="readme stats" />
+  <br/>
+  <img width=290 height=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeel-015&layout=donut-vertical&theme=transparent" alt="top langs" />
+  <a href="https://leetcode.com/adeel-015">
+    <img width=490 height=390 src="https://leetcard.jacoblin.cool/adeel-015?theme=dark&font=ABeeZee&ext=contest" alt="Leetcode Stats">
+  </a>
+</div>
+
 <h2 align="center"> My Stack </h2>
 <br/>
 <div align="center">
@@ -25,13 +35,7 @@
 <hr/>
 
 <h2 align="center"> Stats </h2>
-<br>
-<div align="center">
-  <img width=390 src="https://streak-stats.demolab.com?user=adeel-015&theme=transparent" alt="streak stats" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=adeel-015&theme=transparent&show_icons=true&rank_icon=github" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeel-015&layout=donut-vertical&theme=transparent" alt="top langs" />
-</div>
+<be>
 
 <br/><br/>
 <br/>
