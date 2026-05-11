@@ -6,9 +6,7 @@
 
 <div align="center">
   <img width=390 height=160 src="https://streak-stats.demolab.com?user=adeel-015&theme=transparent" alt="streak stats" />
-  <img width=390 height=160 src="https://github-readme-stats.vercel.app/api?username=adeel-015&theme=transparent&show_icons=true&rank_icon=github" alt="readme stats" />
   <br/>
-  <img width=290 height=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeel-015&layout=donut-vertical&theme=transparent" alt="top langs" />
   <a href="https://leetcode.com/adeel-015" target="_blank">
     <img width=490 height=390 src="https://leetcard.jacoblin.cool/adeel-015?theme=dark&font=ABeeZee&ext=contest" alt="Leetcode Stats">
   </a>
@@ -18,7 +16,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,cpp,postman,latex,materialui,firebase,react,bun,py,vscode,github,netlify,mysql,nodejs,express,java,replit&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,cpp,postman,latex,materialui,firebase,react,nextjs,py,vscode,github,netlify,mysql,nodejs,express,java,replit&perline=7" />
   </a>
 </div>
 
@@ -31,14 +29,6 @@
 
   <br/><br/><br/>
 </div>
-
-<hr/>
-
-<h2 align="center"> Stats </h2>
-<be>
-
-<br/><br/>
-<br/>
 
 <hr/>
 
